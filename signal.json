@@ -1,0 +1,22 @@
+{"Pi":{
+    "data": {
+        "action": "{{strategy.order.action}}",
+        "contracts": "{{strategy.order.contracts}}",
+        "position_size": "{{strategy.position_size}}"
+    },
+    "price": "{{close}}",
+    "signal_param": "{}",
+    "signal_type": "06e015ac-e173-4aca-89ba-308e69e802c4",
+    "symbol": "{{ticker}}",
+    "time": "{{timenow}}"
+}
+
+,
+"By":{
+    "symbol": "{{ticker}}",
+    "side": "{{strategy.order.action}}",
+    "qty": "{{strategy.order.contracts}}",
+    "price": "{{close}}",
+    "trigger_time": "{{timenow}}",
+    "strategy_id": "BKS 2HV1"
+}}
