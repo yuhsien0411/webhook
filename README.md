@@ -1,2 +1,2 @@
 # webhook
-tradingview>sever>exchange
+tradingview>server>exchange
